@@ -138,7 +138,7 @@ The report was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Highest Profit GrowtH
+### [1] Highest Profit Growth
 
 the highest profit growth is usually in February, and between end of quarter 3 and start of quarter 4 suggestign a seasonality. The company would benifit more looking for the cause of surge in profit. 
 
